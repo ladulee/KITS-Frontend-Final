@@ -1,0 +1,24 @@
+.chua{
+  display: flex;
+  width: 600px;
+}
+.doiTien{
+  display: block;
+  width: 250px;
+} 
+label{
+  width: 50px;
+  display: inline-block;
+  text-align: left;
+}
+input{
+  text-align: right;
+}
+.khoi1{
+  display: inline-block;
+  margin-bottom: 10px;
+}
+.btn-chuyen{
+  width: 100px;
+  margin-top: 15px ;
+}
